@@ -1,4 +1,4 @@
-## TMDB 
+# TMDB 
 
 TMBD is a Java Backend application devolped using Microservices architecture
 
@@ -6,5 +6,5 @@ TMBD is a Java Backend application devolped using Microservices architecture
 - Users can post, read and rate the reviews for a movie.
 - Admin can add/update/delete movies.
 
-# Tech stack includes Java, Spring Boot, MySQL, 
-# Technolgies includes Docker
+- Tech stack includes Java, Spring Boot, MySQL, 
+- Technolgies includes Docker
